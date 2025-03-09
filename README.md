@@ -1,0 +1,1 @@
+Learned the basics of html within this project, I learned how to create relative links to my other pages and also learned how to structure a page using lists, headings, and paragraphs. Overall, a great success!
